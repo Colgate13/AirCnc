@@ -8,7 +8,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<br>
+<br />
 
 
 ##Tecnologias

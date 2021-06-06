@@ -1,4 +1,4 @@
-<h1> AirCnc </h1>
+<h1>AirCnc</h1>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,7 +8,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-##Tecnologias
+<h2>Tecnologias</h2>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 

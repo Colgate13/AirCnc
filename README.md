@@ -21,6 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Search and found spots for programming or announce  spots for develops 
 
-##Licença
+<h1>Licença</h1>
 
 MIT [LICENSE](LICENSE.md)
